@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e7712269c00da478270072771a49a9, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  Name: Numbers
+  sprites:
+  - {fileID: 11400000, guid: c7163dd80f4fa884ba8ce58f6f6e06d1, type: 2}
+  - {fileID: 11400000, guid: f31056da2986f9749a2d73208fcf2b8a, type: 2}
+  - {fileID: 11400000, guid: 4bbbf5c385c7fd042bdb81ea57ccae45, type: 2}
+  - {fileID: 11400000, guid: a7659b1923f935849881bc24628e02e5, type: 2}
+  - {fileID: 11400000, guid: e60dca482cdd15443bb49541936af309, type: 2}
+  - {fileID: 11400000, guid: 0f15d765fe7eb3a478ea3bdd67cb47e5, type: 2}
